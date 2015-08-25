@@ -3,8 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <!--title>Muntakim Sadik</title-->
-<title>A random site</title>
+    <!--title>Muntakim Sadik</title--->
 
     <link rel="stylesheet" href="stylesheets/styles.css">
     <link rel="stylesheet" href="stylesheets/github-light.css">
@@ -14,10 +13,6 @@
     <![endif]-->
   </head>
   <body>
-<div class="wrapper">
-<h1>"What lies behind you and what lies in front of you, <br/> &nbsp;&nbsp;pales in comparison to what lies inside of you." </h1>
-<h3 style="text-align:right;">&#8212; Ralph Waldo Emerson</h3>
-</div>
     <!---div class="wrapper">
       <header>
         <h1>Muntakim Sadik</h1>
@@ -131,7 +126,8 @@ for a hostel.</p>
 	<p><a href="/cv.pdf" target="_blank">Download CV</a></p>
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
-    </div--->
+    </
+div>
     <script src="javascripts/scale.fix.js"></script>
     
   </body>
